@@ -1,0 +1,12 @@
+{
+  "name": "electron-hola-mundo",
+  "version": "1.0.0",
+  "description": "Primera app con Electron y Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}
