@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+input, select {
+    width: 200px;
+    padding: 8px;
+    margin: 5px;
+}
+
+button {
+    padding: 8px 20px;
+    background-color: #1976d2;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #125aa3;
+}
+
+p {
+    font-weight: bold;
+    margin-top: 10px;
+}
